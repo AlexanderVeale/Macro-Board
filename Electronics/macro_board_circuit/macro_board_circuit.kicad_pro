@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "macro_board_circuit.step",
       "svg": "",
       "vrml": ""
     },
